@@ -1,6 +1,19 @@
 body {
-  background-color: lightblue;
+  background-color: maroon;
 }
 p {
-  color: purple;
+  font-size: 25px;
+  font-family: cursive;
+  text-decoration: inherit;
+  color: blue;
+}
+h3{
+  font-stretch: expanded;
+  font-size: 25px;
+}
+div{
+  background-color: blue;
+  height: 100px;
+  width: 150px;
+  margin: 15px;
 }
